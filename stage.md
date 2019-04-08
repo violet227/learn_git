@@ -4,7 +4,7 @@
 
 在电脑中看到的文件夹就是工作区
 
-![Markdown](http://i2.bvimg.com/675947/bd61a953d0b3701b.png)
+[![A53FYT.md.png](https://s2.ax1x.com/2019/04/08/A53FYT.md.png)](https://imgchr.com/i/A53FYT)
 
 ### 版本库（Repository）
 
@@ -12,7 +12,7 @@
 
 Git的版本库里存了很多东西，其中最重要的就是称为stage（或者叫index）的暂存区，还有Git为我们自动创建的第一个分支`master`，以及指向`master`的一个指针叫`HEAD`
 
-![Markdown](http://i1.bvimg.com/675947/6678b0702fbd6814.png)
+[![A53Vl4.md.png](https://s2.ax1x.com/2019/04/08/A53Vl4.md.png)](https://imgchr.com/i/A53Vl4)
 
 把文件往Git版本库里添加的时候，是分两步执行的：
 
