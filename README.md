@@ -1,6 +1,6 @@
 # learn_git
 
-![git logo](http://pmbuk1eps.bkt.clouddn.com/68747470733a2f2f6769742d73636d2e636f6d2f696d616765732f6c6f676f4032782e706e67.png)
+![A5nfzR.png](https://s2.ax1x.com/2019/04/08/A5nfzR.png)
 
 笔记来源于[廖雪峰的Git教程](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)。
 真的很庆幸活在这个时代，知识的获取不再变得复杂，而是保持一颗永远追逐的内心！
@@ -16,7 +16,7 @@
 要随时掌握工作区的状态，使用`git status`命令。如果`git status`告诉你有文件被修改过，用`git diff`可以查看修改内容
 
 
-`git log`命令显示从最近到最远的提交日志,如果嫌输出信息太多，看得眼花缭乱的，可以试试加上`--pretty=oneline`参数：
+`git log`命令显示从最近到最远的提交日志,如果嫌输出信息太多，看得眼花缭乱的，可以试试加上`--pretty=oneline`参数。
 #### 2.时光穿梭机——版本退回
 
 - HEAD指向的版本就是当前版本，因此，Git允许我们在版本的历史之间穿梭，使用命令`git reset --hard commit_id`。
