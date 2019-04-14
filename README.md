@@ -1,22 +1,6 @@
 # GitLearn
 
-<<<<<<< HEAD
-1. Learnning GitBase from Liao.
-2. Find new res in net.
-3. Hope can help other peoples.
-4. If you can supplement it, please try to supplement it.
-5. You can fork into your github.
-=======
 ![A5nfzR.png](https://s2.ax1x.com/2019/04/08/A5nfzR.png)
->>>>>>> b9663e549c85fc11956ed53785dc724c5762f609
-
-
-<<<<<<< HEAD
-# 贡献方法
-1. fork到你的仓库
-2. 补充内容到对应的文件(如果没有则新建)
-3. 发起`pull request`
-4. 实践后没问题会合并到当前仓库
 =======
 #### 1.创建版本库
 
@@ -27,7 +11,6 @@
 
 
 要随时掌握工作区的状态，使用`git status`命令。如果`git status`告诉你有文件被修改过，用`git diff`可以查看修改内容
-
 
 `git log`命令显示从最近到最远的提交日志,如果嫌输出信息太多，看得眼花缭乱的，可以试试加上`--pretty=oneline`参数。
 #### 2.时光穿梭机——版本退回
@@ -55,4 +38,3 @@
 
 1. 要克隆一个仓库，首先必须知道仓库的地址，然后使用`git clone`命令克隆。
 2. Git支持多种协议，包括`https`，但通过`ssh`支持的原生git协议速度最快
->>>>>>> b9663e549c85fc11956ed53785dc724c5762f609
